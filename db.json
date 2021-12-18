@@ -1,8 +1,8 @@
 {
   "employee of the month" : {
-    "name" : PortEXE",
+    "name" : "Portexe",
     "position" : "Software Engineer",
-    "image" : 
+    "image" : "Hello.jpg",
     "Description" : "Hi, this is my first nextjs"
   }
 }
